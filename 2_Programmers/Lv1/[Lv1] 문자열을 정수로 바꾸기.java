@@ -1,4 +1,4 @@
-// 문제: 문자열을 정수로 바꾸기
+// 문제: 문자열을 정수로 바꾸기 (Lv.1)
 // 풀이: Integer.parseInt()로 문자열 -> 정수 변환
 
 class Solution {
