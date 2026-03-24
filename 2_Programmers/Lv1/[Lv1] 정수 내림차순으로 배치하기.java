@@ -15,6 +15,7 @@ class Solution {
         for(String i:arr) {
             s += i;
         }
-        return Long.parseLong(s);
+        answer = Long.parseLong(s);
+        return answer;
     }
 }
