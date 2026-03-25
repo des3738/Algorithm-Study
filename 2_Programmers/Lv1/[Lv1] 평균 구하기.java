@@ -8,6 +8,7 @@ class Solution {
         for (int i:arr){
              sum += i;
         }
-        return sum/arr.length;
+        answer = sum/arr.length;
+        return answer;
     }
 }
